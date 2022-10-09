@@ -3,8 +3,6 @@
             let jeden = document.getElementById("jeden").value
             let dwa = document.getElementById ("dwa").value
             let trzy = document.getElementById("trzy").value
-            let ds = HTMLLinkElement.getElementById("https://cenypaliw.moja-ostroleka.pl").value
-            console.log(ds)
             jeden = parseFloat(jeden)
             dwa = parseFloat(dwa)
             trzy = parseFloat(trzy)
