@@ -1,0 +1,65 @@
+fieldset{
+    display: block;
+    text-align: center;
+    border: 2px ridge red;
+    background-color: tomato;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: block; 
+    background-color: grey;
+    color:azure;
+}
+#wynik{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+label{
+    border: 2px ridge gray;
+    border-radius: 5px;
+    background-color: aqua;
+}
+legend{
+    border: 2px ridge gray;
+    border-radius: 5px;
+    background-color: aqua;
+}
+ul{
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-bottom: 20%;
+}
+li a{
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 130px;
+    text-decoration: none;
+    color: aqua;
+    background-color: grey;
+    padding: 10px 15px;
+    margin: 0px 1px 1px 0px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 0px 2px 3px gray;
+
+}
+li a:hover{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
