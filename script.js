@@ -12,3 +12,4 @@
             wynik = document.getElementById("wynik").innerHTML = "$= " + wynik
             
         }
+        

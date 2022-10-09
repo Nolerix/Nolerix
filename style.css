@@ -23,6 +23,7 @@ body{
     width: 50%;
     height: 50%;
     margin-left: 25%;
+    margin-top: 25%;
 }
 label{
     border: 2px ridge gray;
@@ -63,3 +64,10 @@ li a:hover{
     background-color: black;
     border: 1px solid black;
 }
+    @media (max-width: 900px){
+        body{width: auto;
+            height: auto;
+            margin-right: 10%;
+            margin-left: 10%;
+        }   
+    }
